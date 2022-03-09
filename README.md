@@ -2,12 +2,12 @@
 Seorang pelajar yang sedang memahami pemograman machine dan lain-lain.  
 <p>
   <img src="https://img.shields.io/github/followers/ahmdasyhr8?style=for-the-badge" />
+  
 </p>
 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/ahmdasyhr8" />
 </p>
 
 ### Stats:
