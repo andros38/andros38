@@ -12,9 +12,9 @@ Seorang pelajar yang sedang memahami pemograman machine dan lain-lain.
 
 ### Stats:
 <details>
- <summary><strong>Hal yang sedang saya pelajari/kerjakan hari ini</strong></summary>
-    - 🔭 Saya menggunakan windows/linux untuk melakukan programming
-    - 🌱 Saya sedang belajar pengembangan front-end
+ <summary><strong>Hal yang sedang saya pelajari/kerjakan hari ini</strong></summary> </br>
+    - 🔭 Saya menggunakan windows/linux untuk melakukan programming </br>
+    - 🌱 Saya sedang belajar pengembangan front-end </br>
     - 🌱 Pemograman yang sedang saya pelajari saat ini yaitu html-css-js  </br>
     - 👯 Saya juga ingin masuk ke pembangunan pemograman android </br>
     - ⚡ Fun fact: saya belajar secara otodidak </br>
