@@ -1,5 +1,5 @@
 # Selamat Datang di halaman github saya!
-### Seorang pelajar yang sedang memahami pemograman machine dan lain-lain.  
+### Saya adalah seorang pelajar yang sedang memahami pemograman machine dan lain-lain.  
 
 ### Aplikasi Dev:
 <p>
