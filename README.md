@@ -1,11 +1,10 @@
 # Hi there 👋 , I'm Andros!
-Seorang pelajar yang sedang memahami pemograman machine dan lain-lain.  
+### Seorang pelajar yang sedang memahami pemograman machine dan lain-lain.  
 <p>
   <img src="https://img.shields.io/github/followers/ahmdasyhr8?style=for-the-badge" />
-  
 </p>
 
-### Aplikasi Yang Digunakan:
+### Aplikasi Dev:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
@@ -21,7 +20,5 @@ Seorang pelajar yang sedang memahami pemograman machine dan lain-lain.
 </details>
 
 ### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmdasyhr8&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdasyhr8&layout=compact" height=180 />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmdasyhr8&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdasyhr8&layout=compact" height=180 />
