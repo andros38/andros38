@@ -16,6 +16,6 @@
 </details>
 
 ### Stats:
-<img src="https://img.shields.io/github/followers/ahmdasyhr8?style=for-the-badge" />
-<img src="https://github-readme-stats.vercel.app/api?username=ahmdasyhr8&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdasyhr8&layout=compact" height=180 />
+<img src="https://img.shields.io/github/followers/4ndrxd?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=4ndrxd&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrxd&layout=compact" height=180 />
