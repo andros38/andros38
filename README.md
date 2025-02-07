@@ -19,5 +19,3 @@
 <img src="https://img.shields.io/github/followers/andros83?style=for-the-badge"/>
 <img src="https://github-readme-stats.vercel.app/api?username=andros83&show_icons=true&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andros83&layout=donut"/>
-<img src="https://github.com/andros83/github-readme-stats"/>
-
