@@ -17,5 +17,4 @@
 
 ### Stats:
 <img src="https://img.shields.io/github/followers/andros83?style=for-the-badge"/>
-<img src="https://github-readme-stats.vercel.app/api?username=andros83&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andros83&show_icons=true&theme=transparent"/>
