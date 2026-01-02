@@ -10,6 +10,3 @@
 
 #### Skills 📌
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,xd,premiere&theme=dark)](https://skillicons.dev)
-
-#### My Stats 🗿
-![Andros GitHub stats](https://github-readme-stats.vercel.app/api?username=andros83&show_icons=true&bg_color=00000000)
