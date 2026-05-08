@@ -10,5 +10,5 @@
 #### Alat desain UI 🧰
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-#### Yang sudah dipelajari 📌
+#### Yang sedang dipelajari 📌
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,xd,premiere&theme=dark)](https://skillicons.dev)
