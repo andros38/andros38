@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 #### Yang sedang dipelajari 📌
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,rust,figma,premiere,arduino&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,rust,figma,premiere,arduino,android&theme=dark)](https://skillicons.dev)
