@@ -1,4 +1,4 @@
-## Hai! Andros disini🙌
+## Hai, Andros disini🙌
 
 ![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3ejRteW16Y3UxeWc5bGpxbjBycnE5djJ3c2Z0eDNjNXQxdXZmcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif)
 
