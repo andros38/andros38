@@ -4,6 +4,10 @@
 
 #### Saya menyukai hal mengenai teknologi, dan sekarang saya tidak bosan untuk mempelajarinya terus meneurus. Saya belum 100% menguasai semuanya, tapi saya tetap mencoba untuk terus belajar. Silahkan lihat beberapa hasil project yang telah saya buat.
 
+<p>
+  <img src="https://raw.githubusercontent.com/andros38/SoundRIP/refs/heads/main/img1.png" width="300">
+</p>
+
 ##### Yang sedang dipelajari 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,figma&theme=dark)](https://skillicons.dev)
 
