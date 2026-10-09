@@ -2,8 +2,6 @@
 
 ![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN3ejRteW16Y3UxeWc5bGpxbjBycnE5djJ3c2Z0eDNjNXQxdXZmcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif)
 
-#### Saya menyukai hal mengenai teknologi, dan sekarang saya tidak bosan untuk mempelajarinya terus meneurus. Saya belum 100% menguasai semuanya, tapi saya tetap mencoba untuk terus belajar. Silahkan lihat beberapa hasil project yang telah saya buat pada pin dibawah.
-
 ##### Yang sedang dipelajari 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,figma&theme=dark)](https://skillicons.dev)
 
@@ -12,3 +10,5 @@
 
 ##### Saya juga menguasai aplikasi Multimedia, seperti : 
 [![My Skills](https://skillicons.dev/icons?i=premiere,photoshop&theme=dark)](https://skillicons.dev)
+
+#### Saya menyukai hal mengenai teknologi, dan sekarang saya tidak bosan untuk mempelajarinya terus meneurus. Saya belum 100% menguasai semuanya, tapi saya tetap mencoba untuk terus belajar. Silahkan lihat beberapa hasil project yang telah saya buat pada pin dibawah.
