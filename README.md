@@ -8,7 +8,4 @@
 ##### AI yang saya gunakan 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-orange?style=for-the-badge&logo=claude&logoColor=white" />
 
-##### Saya juga menguasai aplikasi Multimedia, seperti : 
-[![My Skills](https://skillicons.dev/icons?i=premiere,photoshop&theme=dark)](https://skillicons.dev)
-
 #### Saya menyukai hal mengenai teknologi, dan sekarang saya tidak bosan untuk mempelajarinya terus meneurus. Saya belum 100% menguasai semuanya, tapi saya tetap mencoba untuk terus belajar. Silahkan lihat beberapa hasil project yang telah saya buat pada pin dibawah.
