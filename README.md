@@ -6,8 +6,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,figma&theme=dark)](https://skillicons.dev)
 
 #### Sebagai catatan, saya adalah seorang vibe coder
-## My Homepage
-Klik [Andros Homepage](https://andros38.github.io/)
+## Beranda
+Klik [Beranda](https://andros38.github.io/)
 
 atau bisa copy link dibawah ini :
 ```text
